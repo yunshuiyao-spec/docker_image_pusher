@@ -15,3 +15,4 @@ docker.io/calico/kube-controllers:v3.20.6
 docker.io/calico/pod2daemon-flexvol:v3.20.6
 kubernetesui/dashboard:v2.2.0
 kubernetesui/metrics-scraper:v1.0.6
+nginx
