@@ -20,3 +20,4 @@ busybox
 k8s.gcr.io/metrics-server/metrics-server:v0.4.4
 kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
+tomcat:8.5.68
