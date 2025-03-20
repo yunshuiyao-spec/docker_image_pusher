@@ -1,1 +1,1 @@
-redis
+kubesphere/ks-installer:v3.1.1
