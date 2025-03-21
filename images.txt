@@ -1,1 +1,12 @@
-csiplugin/snapshot-controller:v3.0.3
+snapshot-controller
+mirrorgooglecontainers/defaultbackend-amd64:1.4
+kubesphere/kube-rbac-proxy:v0.8.0
+kubesphere/kube-rbac-proxy:v0.8.0
+prom/node-exporter:v0.18.1
+kubesphere/kube-state-metrics:v1.9.7
+prom/node-exporter:v0.18.1
+kubesphere/notification-manager-operator:v1.0.0
+kubesphere/prometheus-operator:v0.42.1
+kubesphere/ks-apiserver:v3.1.1
+kubesphere/ks-console:v3.1.1
+kubesphere/ks-controller-manager:v3.1.1
