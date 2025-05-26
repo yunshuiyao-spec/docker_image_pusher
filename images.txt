@@ -1,1 +1,2 @@
 nacos/nacos-server:2.0.3
+mysql:8.0
